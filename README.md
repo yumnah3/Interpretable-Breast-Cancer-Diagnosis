@@ -1,5 +1,5 @@
 
-<img src="https://github.com/yumnah3/Interpretable-Solutions-for-Breast-Cancer-Diagnosis-AI/assets/96771020/fba55ef1-264b-4d48-b935-cd961886f204" style="center" alt="Methodology" width="300">
+<img src="https://github.com/yumnah3/Interpretable-Solutions-for-Breast-Cancer-Diagnosis-AI/assets/96771020/fba55ef1-264b-4d48-b935-cd961886f204" style="center" alt="Methodology" width="600" height="600">
 
 
 
