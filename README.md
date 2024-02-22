@@ -1,7 +1,8 @@
 
-<div style="text-align: center;">
+<div style="display: block; margin: auto;">
     <img src="https://github.com/yumnah3/Interpretable-Solutions-for-Breast-Cancer-Diagnosis-AI/assets/96771020/fba55ef1-264b-4d48-b935-cd961886f204" alt="Methodology" width="300">
 </div>
+
 
 
 ## About The Project
