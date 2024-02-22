@@ -3,19 +3,13 @@
 Interpretable Solutions for Breast Cancer Diagnosis with Grammatical Evolution and Data Augmentation
 ## About The Project
 
-[Detailed description of your project]
-
-## Usage
-
-[Instructions on how to use your project]
+[While post-hoc interpretability techniques such as SHAP and LIME have been used with some success on so-called black box models, the use of inherently understandable models makes such endeavours more fruitful. This paper addresses these issues by demonstrating how a relatively new synthetic data generation technique, STEM, can be used to produce data to train models produced by Grammatical Evolution (GE) that are inherently understandable. STEM is a recently introduced combination of the Synthetic Minority Over-sampling Technique (SMOTE), Edited Nearest Neighbour (ENN), and Mixup; it has previously been successfully used to tackle both between-class and within-class imbalance issues. We test our technique on the Digital Database for Screening Mammography (DDSM) and the Wisconsin Breast Cancer (WBC) datasets.
 
 ## Prerequisites
 
-[List of prerequisites or dependencies required to use your project]
-
-## Install
-
-[Instructions on how to install your project]
+PyCaret
+GRAPE
+AutoRank
 
 ## Cite our work
 If you utilize the code, kindly acknowledge the paper in any resulting publications.
