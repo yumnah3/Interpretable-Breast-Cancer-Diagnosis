@@ -1,7 +1,6 @@
 # Project Name
 
-[Short description of your project]
-
+Interpretable Solutions for Breast Cancer Diagnosis with Grammatical Evolution and Data Augmentation
 ## About The Project
 
 [Detailed description of your project]
